@@ -9,7 +9,7 @@ _This includes Android, iOS, Windows, MacOS, and most consoles like the Play Sta
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rule-34-h3ntai-P0rn)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/rule-34-h3ntai-P0rn)
 
 </div>
 
@@ -34,7 +34,7 @@ This app can browse the following Boorus.
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rule-34-h3ntai-P0rn)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/rule-34-h3ntai-P0rn)
 
 </div>
 
@@ -91,7 +91,7 @@ npm run generate
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/rule-34-h3ntai-P0rn)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/rule-34-h3ntai-P0rn)
 
 </div>
 
